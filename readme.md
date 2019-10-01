@@ -1,9 +1,9 @@
 # shirts-are-harder-than-you-think
 
-https://shirts-are-harder-than-you-think.netlify.com/
+https://shirts-against-image-compression.netlify.com/
 
 Because Bruce Lawson [told me to](https://twitter.com/brucel/status/1178991264487936000).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b3235142-c28d-4a84-b5b4-3985e9f9e502/deploy-status)](https://app.netlify.com/sites/shirts-are-harder-than-you-think/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ceb80552-29b5-4886-9beb-2f4edb537d3d/deploy-status)](https://app.netlify.com/sites/shirts-against-image-compression/deploys)
 
 
